@@ -2,7 +2,7 @@
 
 URL Shortener is a Python desktop application that utilizes the Cutt.ly URL shortening service to quickly and easily shorten long URLs. It features a user-friendly graphical interface built with the Tkinter library.
 
-![URL Shortener Demo](demo.gif)
+![URL Shortener Demo](preview.png)
 
 ## Features
 
