@@ -19,3 +19,11 @@ URL Shortener is a Python desktop application that utilizes the Cutt.ly URL shor
 
   ```bash
   pip install requests
+  ```
+
+  ## How to Use??
+  
+  - Get your API key from cuttly
+  - Input the API key and website link you want to shorten
+  - Click on shorten URL
+  - Copy the new URl that you can use
